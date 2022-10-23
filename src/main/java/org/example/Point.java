@@ -18,4 +18,6 @@ public class Point {
     }
 
     public void Info() {}
+
+    public void Info2() {}
 }
