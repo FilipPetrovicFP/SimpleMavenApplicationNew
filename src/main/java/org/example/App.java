@@ -15,6 +15,8 @@ public class App
         // koriscenje udaljene biblioteke kojoj maven ima pristup
         JSONArray array = new JSONArray();
 
+        JSONArray array2 = new JSONArray();
+
         Point p2 = p;
         Figure f2 = f;
 
